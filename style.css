@@ -1,0 +1,55 @@
+.linkheader {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 40px;
+}
+
+header {
+    text-align: center;
+    background: #197BBD;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.linkheader a {
+    text-decoration: none;
+    color: white;
+}
+
+footer {
+    width: 98.3%;
+    position: fixed;
+    bottom: 0;
+    background-color: #197BBD;
+    text-align: center;
+    font-size: 130%;
+    padding: 0.4%;
+    border-radius: 10px;
+    margin-bottom: 8px;
+}
+
+footer a {
+    text-decoration: none;
+    color: white;
+    margin: 0 20px 0 20px;
+}
+
+.bienvenueMessage {
+    text-align: center;
+    padding: 0 100px 0 100px;
+}
+
+.description {
+    text-align: center;
+    padding: 0 100px 0 100px;
+}
+
+h1 {
+    color: #204B57
+}
+
+body {
+    background-color: rgb(224, 224, 224);
+    font-family: 'Courier New', Courier, monospace;
+}
